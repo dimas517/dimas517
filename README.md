@@ -23,3 +23,12 @@ I'm 10 and just start phyton🥹
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dimas517"><img src="https://github-readme-stats.vercel.app/api?username=dimas517&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=10b981&bg_color=27272a&hide_border=true&show_icons=true" alt="dimas517's GitHub stats" /></a>
+
+
+
+
+
+
+
+
+
