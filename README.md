@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitriy Pogorelyi
 ==========================================================================================================================================
 
@@ -23,12 +29,6 @@ I'm 10 and just start phyton🥹
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dimas517"><img src="https://github-readme-stats.vercel.app/api?username=dimas517&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=10b981&bg_color=27272a&hide_border=true&show_icons=true" alt="dimas517's GitHub stats" /></a>
-
-
-
-
-
-
 
 
 
